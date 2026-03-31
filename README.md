@@ -17,6 +17,12 @@ It includes hands-on projects and examples demonstrating dynamic rendering, data
 - Using **includes** for reusable layouts
 
 ---
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/f91a43ae-6980-493e-b882-11d896a25602" />
+<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/54adbde4-7de1-4ddf-978e-84cbae6022be" />
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/9287c636-e02a-4a3e-ac7d-d947016617a1" />
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f70e0434-67a9-4782-83e6-24109843121a" />
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/69f245da-d5c7-4ed7-8267-5c06620979e9" />
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/3f832315-f60f-46d0-86d9-b83568dc17a4" />
 
 
 ## 📂 Project Structure
