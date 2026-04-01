@@ -27,7 +27,10 @@ It includes hands-on projects and examples demonstrating dynamic rendering, data
 
 ## 📂 Project Structure
 
-├── public/             # Static assets (CSS, JS, images) │   ├── css/            # Stylesheets │   └── js/             # Client-side scripts │ ├── views/              # EJS templates │   ├── partials/       # Includes (header, footer, navbar, etc.) │   ├── home.ejs        # Homepage │   ├── instagram.ejs   # Instagram-style page │   ├── rolldice.ejs    # Dice roll demo │   └── error.ejs       # Error page │ ├── data.json           # Sample data for rendering ├── index.js            # Express server setup ├── package.json        # Dependencies and scripts └── package-lock.json   # Dependency lock file
+├── public/             # Static assets (CSS, JS, images) │   ├── css/            # Stylesheets │   └── js/             # Client-side scripts │ ├── views/              # EJS templates │  
+├── partials/       # Includes (header, footer, navbar, etc.) │   ├── home.ejs        # Homepage │   ├── instagram.ejs   # Instagram-style page │   ├── rolldice.ejs    # Dice roll demo │ 
+└── error.ejs       # Error page │ ├── data.json           # Sample data for rendering ├── index.js            # Express server setup ├── package.json        # Dependencies and scripts └── package-lock.json  
+# Dependency lock file
 ---
 
 - Open in browser:
