@@ -6,7 +6,7 @@ This repository showcases my backend development learning with **Node.js**, **Ex
 It includes hands-on projects and examples demonstrating dynamic rendering, data handling, and templating.
 ---
 
-## 📚 What I Learned
+## 📚 What I Learned :
 - Setting up the **views directory** for EJS templates
 - Using **interpolation syntax** (`<%= %>`) to embed dynamic content
 - Passing data from Express routes to EJS views
